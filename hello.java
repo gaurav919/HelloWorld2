@@ -6,6 +6,7 @@ public class hello {
 		System.out.println("We are getting another covid relief stimulus check soon!!!");
 		System.out.println("Hello World");
 		System.out.println("Good Bye!");
+		System.out.println("Hi Alice!");
 		
 		
 
