@@ -11,6 +11,8 @@ public class hello {
 		System.out.println("Hi to Bob and Alice!");
 		System.out.println("Hi Charlie");
 		System.out.println("Hi Denise");
+		System.out.println("Hi Easter");
+		
 		
 		
 		
